@@ -17,7 +17,7 @@
 
 <body>
 
-    <main class="bg-light">
+    <main class="bg-dark">
         <div class="container">
             <div class="row">
                 <div class="col-12">
